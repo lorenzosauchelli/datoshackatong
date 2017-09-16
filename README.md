@@ -13,13 +13,19 @@ Portales de Datos
 * fectcheck http://factcheck.org/
 * portal de finansas de la provincia de cordoba 
 * ministerio de salud http://www.msal.gob.ar/sida/
+* clinica web https://clinica-web.com.ar/
 
 Integrantes
 
 * Lorenzo Sauchelli
+  - email : lorenzo.
 * Nahuel Nucera
+  - email : nahuelnucera990@gmail.com
 * Ezequiel Fernandez
+  - email : ezequiel004@gmail.com  
 * Richard Heurtley
+  - email : ricardoheurtley@hotmail.com
 * Juan Manuel Gonzalez
+  - email : jmgonzalez76@gmail.com
 * Juan Pablo Carranza
-
+  - email : prensacarranza@gmail.com
