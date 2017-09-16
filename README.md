@@ -6,13 +6,13 @@ El objetivo de esta aplicación es mostrar que tan cierto son los discursos poli
 
 Portales de Datos
 
-* portal de gobierno abierto de cordoba
-* portal de estadisticas de la provincia
-* portal de transparencia de la provincia
+* portal de gobierno abierto de cordoba https://gobiernoabierto.cordoba.gob.ar/
+* portal de estadisticas de la provincia http://estadistica.cba.gov.ar/
+* portal de transparencia de la provincia http://transparencia.cba.gov.ar/
 * pro publica  https://www.propublica.org/
 * fectcheck http://factcheck.org/
 * portal de finansas de la provincia de cordoba 
-
+* ministerio de salud http://www.msal.gob.ar/sida/
 
 Integrantes
 
