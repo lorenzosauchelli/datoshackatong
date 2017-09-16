@@ -17,7 +17,14 @@ Este proyecto utiliza [Feathers](http://feathersjs.com) y [Angular](https://angu
     npm install
     ```
 
-3. Iniciar la aplicación
+3. Importar base de datos
+
+    ```
+    mongorestore
+    ```
+
+
+4. Iniciar la aplicación
 
     ```
     npm start
