@@ -14,6 +14,15 @@ El objetivo de esta aplicación es mostrar que tan cierto son los discursos poli
 * portal de finansas de la provincia de cordoba 
 * ministerio de salud http://www.msal.gob.ar/sida/
 * clinica web https://clinica-web.com.ar/
+* unicef https://data.unicef.org/country/arg/
+
+Herrmientas
+
+* http://datastudio.google.com
+* http://www.metabase.com
+* http://www.redash.io
+* http://mlab.com
+* https://www.tableau.com/
 
 ### Integrantes
 
