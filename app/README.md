@@ -1,23 +1,23 @@
-# app
+# Aplicación
 
 > Aplicación fact-checking
 
-## About
 
-This project uses [Feathers](http://feathersjs.com). An open source web framework for building modern real-time applications.
+Este proyecto utiliza [Feathers](http://feathersjs.com) y [Angular](https://angular.io/)
 
-## Getting Started
+## Inicio
 
-Getting up and running is as easy as 1, 2, 3.
+1. Para correr la aplicación es requerido tener instalado:
+    * [NodeJS](https://nodejs.org/) 
+    * [npm](https://www.npmjs.com/)
 
-1. Make sure you have [NodeJS](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed.
-2. Install your dependencies
+2. Instalar las dependencias
 
     ```
-    cd path/to/app; npm install
+    npm install
     ```
 
-3. Start your app
+3. Iniciar la aplicación
 
     ```
     npm start
@@ -25,33 +25,16 @@ Getting up and running is as easy as 1, 2, 3.
 
 ## Testing
 
-Simply run `npm test` and all your tests in the `test/` directory will be run.
-
-## Scaffolding
-
-Feathers has a powerful command line interface. Here are a few things it can do:
-
-```
-$ npm install -g feathers-cli             # Install Feathers CLI
-
-$ feathers generate service               # Generate a new Service
-$ feathers generate hook                  # Generate a new Hook
-$ feathers generate model                 # Generate a new Model
-$ feathers help                           # Show all commands
-```
-
-## Help
-
-For more information on all the things you can do with Feathers visit [docs.feathersjs.com](http://docs.feathersjs.com).
+Para correr los Unit Test, solo hace falta ejecutar el comando `npm test`, esto correrá todos los tests del directorio `test/`.
 
 ## Changelog
 
 __0.1.0__
 
-- Initial release
+- Versión inicial
 
 ## License
 
-Copyright (c) 2016
+Copyright (c) 2017
 
 Licensed under the [MIT license](LICENSE).
